@@ -14,6 +14,7 @@ Edited script is in the question-4-code directory
 Latest commit
 
 ### Question 5
+https://github.com/Willbill1978/reproducible-research_assignment/blob/main/Question-5-code.R
 There are 33 rows and 13 columns.
 To linearise the equation V=BL^a we plot lnV against lnL to get a linear graph with gradient alpha and intercept lnB (or just C as its just a scaling constant)
 
